@@ -29,7 +29,7 @@ WatchPortalFunction is an Azure Function implemented in C# that serves as an HTT
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/WatchPortalFunction.git
+git clone https://github.com/Talha-Tahir2001/WatchPortalFunction.git
 cd WatchPortalFunction
 ```
 ## Build and Run Locally
